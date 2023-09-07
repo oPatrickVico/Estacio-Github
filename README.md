@@ -20,7 +20,8 @@ entre parenteses. Algo como "[apelido] (link)  ". Coloque dois espaços depois d
 Lembre de colocar o apelido **após** os outros, sem substituir nenhum deles.
 
 5. Dê um commit e um push com as modificações;
-6. Inicie um pull request e espere ser aprovado!
+6. Inicie um pull request e espere ser aprovado;
+7. Não esqueça de dar uma estrela no projeto.
 
 ## Como fazer sugestões e pedidos:
 
