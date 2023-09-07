@@ -22,7 +22,11 @@ Lembre de colocar o apelido **após** os outros, sem substituir nenhum deles.
 5. Dê um commit e um push com as modificações;
 6. Inicie um pull request e espere ser aprovado!
 
+## Como fazer sugestões e pedidos:
+
+Caso tenha outros vídeos ou recursos, utilize o menu de Issues. Fica na aba ao lado da aba Code.
+
 ## Lista de Contribuições
 
-[oPatrickVico](https://github.com/oPatrickVico)
+[oPatrickVico](https://github.com/oPatrickVico)  
 [Próximo nome vai aqui]
