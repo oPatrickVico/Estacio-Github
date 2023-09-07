@@ -17,4 +17,4 @@ entre parenteses. Algo como "[apelido] (link)".
 ## Lista de Contribuições
 
 [oPatrickVico](https://github.com/oPatrickVico)
-
+[Próximo nome vai aqui]
