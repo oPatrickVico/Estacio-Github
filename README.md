@@ -29,4 +29,5 @@ Caso tenha outros vídeos ou recursos, utilize o menu de Issues. Fica na aba ao 
 ## Lista de Contribuições
 
 [oPatrickVico](https://github.com/oPatrickVico)  
+[Aosfy](https://github.com/Aosfy)
 [Próximo nome vai aqui]
