@@ -15,7 +15,7 @@ Depois:
 3. Coloque seu apelido e link da sua página do github no final desse documento;
 
 Basta colocar o apelido entre [ colchetes ] sem espaço, seguido pelo link
-entre parenteses. Algo como "[apelido] (link)".
+entre parenteses. Algo como "[apelido] (link)  ". Coloque dois espaços depois do parenteses para criar uma nova linha. Só um enter não funciona. 
 
 Lembre de colocar o apelido **após** os outros, sem substituir nenhum deles.
 
@@ -29,5 +29,5 @@ Caso tenha outros vídeos ou recursos, utilize o menu de Issues. Fica na aba ao 
 ## Lista de Contribuições
 
 [oPatrickVico](https://github.com/oPatrickVico)  
-[Aosfy](https://github.com/Aosfy)
+[Aosfy](https://github.com/Aosfy)  
 [Próximo nome vai aqui]
